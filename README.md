@@ -1,7 +1,7 @@
 # MultiLayer-BERT-Sentiment
 # Multi-Layer BERT for Sentiment Analysis
 
-![Model Performance](https://raw.githubusercontent.com/yourusername/repo-name/main/model_performance.png)
+![Model Performance](https://github.com/HwanNorm/MultiLayer-BERT-Sentiment/blob/main/images/model_accuracy_and_loss.png)
 
 ## Project Overview
 This project implements an enhanced sentiment analysis model by leveraging multi-layer features from BERT transformer blocks. Instead of using only the final layer's representation, this approach extracts and combines features from all encoder layers to create a more robust text representation for sentiment classification.
