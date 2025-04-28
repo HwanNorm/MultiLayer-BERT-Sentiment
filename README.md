@@ -1,4 +1,3 @@
-# MultiLayer-BERT-Sentiment
 # Multi-Layer BERT for Sentiment Analysis
 
 ![Model Performance](https://github.com/HwanNorm/MultiLayer-BERT-Sentiment/blob/main/images/model_accuracy_and_loss.png)
